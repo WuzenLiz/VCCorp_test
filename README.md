@@ -1,7 +1,7 @@
 # VCCorp_test 
 ## Basic infomation
 
-It's small json-based API. Making with flask, marshmallow and 2 cup of Coffe.
+It's small json-based API. Making with flask, marshmallow and 2 cup of Coffee.
 Yep and it could be have some bug, feel free to tell me.
 
 ## Usage
